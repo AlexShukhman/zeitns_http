@@ -1,0 +1,3 @@
+github.com/alexshukhman/zeitns_http v0.0.0-20200729011100-d84265ccd0d6 h1:Lkwq8dBTBLVYXbsX+Mt8rAe4YWGnKFWGcNQynmEYouA=
+github.com/go-redis/redis v6.15.8+incompatible h1:BKZuG6mCnRj5AOaWJXoCgf6rqTYnYJLe4en2hxT7r9o=
+github.com/go-redis/redis v6.15.8+incompatible/go.mod h1:NAIEuMOZ/fxfXJIrKDQDz8wamY7mA7PouImQ2Jvg6kA=
